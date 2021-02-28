@@ -1,2 +1,2 @@
 # vrp_visualization
-functions and snippets for visualising the vehicle routing problem
+Functions and snippets for visualising the vehicle routing problem
